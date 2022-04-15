@@ -1,4 +1,4 @@
-### Olá, eu me chamo Carlos Henrqiue, seja bem vindo(a)! 👋
+### Olá, eu me chamo Carlos Henrique, seja bem vindo(a)! 👋
 
 - 🔭 Hoje eu trabalho com Front-end - React-js
 - 🌱 Estou estudando React-native
